@@ -51,6 +51,9 @@ Fashion Assistant utilizes cutting-edge technologies and libraries, including:
 Fashion Assistant is ready to assist you with all your fashion-related inquiries. Simply enter your question or query in the input box and discover a world of fashion advice at your fingertips!
 
 ### Contributers:
+
 Subhangi Sati
+
 Purvika Joshi
+
 Abhishek Joshi
